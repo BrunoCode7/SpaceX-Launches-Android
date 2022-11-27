@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceX Launches</string>
+    <string name="rocket_details_title">Rocket Description</string>
+
+</resources>
